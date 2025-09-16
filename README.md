@@ -11,7 +11,7 @@
 ## Product Vision
 
 ### Far Vision
-We want to transform the way groups of friends, families, and coworkers plan meetups by providing a **seamless, social-first platform** that finds a fair **midpoint location** and suggests activities and restaurants. Long-term, our goal is to make group outing planning as easy as one click — anywhere in the world.
+We want to transform the way groups of friends, families, and coworkers plan meetups by providing a **seamless, social-first platform** that finds a fair **midpoint location** and suggests activities and restaurants. Long-term, our goal is to make group outing planning as easy as one simple click.
 
 ### Near Vision
 For the first iteration, our platform will:
