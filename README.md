@@ -51,7 +51,8 @@ For the first iteration, our platform will:
 ---
 
 ## Product Backlog
-Our backlog is stored in **Pivotal Tracker**: [Insert URL]  
+Our backlog is stored in **Pivotal Tracker**:
+
 
 ### Example User Stories
 1. As a user, I want to enter my starting location so the app can calculate a midpoint.  
