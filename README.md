@@ -51,7 +51,7 @@ For the first iteration, our platform will:
 ---
 
 ## Product Backlog
-Our backlog is stored in **Pivotal Tracker**:
+Our backlog is stored in **Voya Sprint**: https://github.com/orgs/Voya-NJIT/projects/1
 
 
 ### Example User Stories
